@@ -1,0 +1,15 @@
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\obj\Debug\net7.0\TugasMinggu3.csproj.AssemblyReference.cache
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\obj\Debug\net7.0\TugasMinggu3.GeneratedMSBuildEditorConfig.editorconfig
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\obj\Debug\net7.0\TugasMinggu3.AssemblyInfoInputs.cache
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\obj\Debug\net7.0\TugasMinggu3.AssemblyInfo.cs
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\obj\Debug\net7.0\TugasMinggu3.csproj.CoreCompileInputs.cache
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\bin\Debug\net7.0\TugasMinggu3.exe
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\bin\Debug\net7.0\TugasMinggu3.deps.json
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\bin\Debug\net7.0\TugasMinggu3.runtimeconfig.json
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\bin\Debug\net7.0\TugasMinggu3.dll
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\bin\Debug\net7.0\TugasMinggu3.pdb
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\obj\Debug\net7.0\TugasMinggu3.dll
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\obj\Debug\net7.0\refint\TugasMinggu3.dll
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\obj\Debug\net7.0\TugasMinggu3.pdb
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\obj\Debug\net7.0\TugasMinggu3.genruntimeconfig.cache
+D:\22.11.4873\Tugas Pemrograman\TugasMinggu3\TugasMinggu3\obj\Debug\net7.0\ref\TugasMinggu3.dll
