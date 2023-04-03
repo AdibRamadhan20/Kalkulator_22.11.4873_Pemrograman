@@ -1,0 +1,15 @@
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\bin\Debug\net7.0\TugasPemrogramanPraktikum4.exe
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\bin\Debug\net7.0\TugasPemrogramanPraktikum4.deps.json
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\bin\Debug\net7.0\TugasPemrogramanPraktikum4.runtimeconfig.json
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\bin\Debug\net7.0\TugasPemrogramanPraktikum4.dll
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\bin\Debug\net7.0\TugasPemrogramanPraktikum4.pdb
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\obj\Debug\net7.0\TugasPemrogramanPraktikum4.csproj.AssemblyReference.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\obj\Debug\net7.0\TugasPemrogramanPraktikum4.GeneratedMSBuildEditorConfig.editorconfig
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\obj\Debug\net7.0\TugasPemrogramanPraktikum4.AssemblyInfoInputs.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\obj\Debug\net7.0\TugasPemrogramanPraktikum4.AssemblyInfo.cs
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\obj\Debug\net7.0\TugasPemrogramanPraktikum4.csproj.CoreCompileInputs.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\obj\Debug\net7.0\TugasPemrogramanPraktikum4.dll
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\obj\Debug\net7.0\refint\TugasPemrogramanPraktikum4.dll
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\obj\Debug\net7.0\TugasPemrogramanPraktikum4.pdb
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\obj\Debug\net7.0\TugasPemrogramanPraktikum4.genruntimeconfig.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPemrogramanPraktikum4\TugasPemrogramanPraktikum4\obj\Debug\net7.0\ref\TugasPemrogramanPraktikum4.dll
